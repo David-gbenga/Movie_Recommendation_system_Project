@@ -26,4 +26,4 @@ identify potential errors in the data and clean the existing data set
 Matrix Factorization-based Algorithmt
 Creating Handcrafted Features
 Evaluate the performance of the machine learning model
-Highlight key findings .
+Highlight key findings at the end of the project
