@@ -1,4 +1,4 @@
- I lead a team of Data Scientist on the development of a recommendation system(content based or collaborative filtering recommendation algorithms)
+ I led a team of Data Scientist on the development of a recommendation system(content based or collaborative filtering recommendation algorithms)
 
 FINAL NOTEBOOK_RECOMMENDATION _SYSTEM: This the ipynb file (Jupyter notebook) it contains all the codes for thos project.
 
